@@ -96,8 +96,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any queries or suggestions, feel free to reach out:
-- **Email:** [your.email@example.com](mailto:parasspatil10@gmail.com)
-- **GitHub:** [https://github.com/yourusername]([https://github.com/yourusername](https://github.com/paraspatil21))
+- **Email:** [parasspatil10@gmail.com](mailto:parasspatil10@gmail.com)
+- **GitHub:** [(https://github.com/paraspatil21)]((https://github.com/paraspatil21))
 
 ### How to Use:
 - Replace `your.email@example.com` and `https://github.com/yourusername` with your actual contact details.
