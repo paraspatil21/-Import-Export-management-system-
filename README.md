@@ -97,12 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any queries or suggestions, feel free to reach out:
 - **Email:** [parasspatil10@gmail.com](mailto:parasspatil10@gmail.com)
-- **GitHub:** [(https://github.com/paraspatil21)]((https://github.com/paraspatil21))
+- **GitHub:** [https://github.com/paraspatil21]((https://github.com/paraspatil21))
 
-### How to Use:
-- Replace `your.email@example.com` and `https://github.com/yourusername` with your actual contact details.
-- Save this as `README.md` in your project folder to display it on GitHub. 
-
-Let me know if you’d like further customizations!
 
 
